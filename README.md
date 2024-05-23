@@ -1,6 +1,6 @@
 ## Hi there! I am Vivek Dave. 🤙
 <br>
-I am building my fullstack skills by learning React for frontend and Django for the backend so that I can use my Python skills to use 🐍 . <br> I am also passionate about Computer Vision and Machine Learning 💻. 
+I am building my fullstack skills by learning React for frontend and Django for the backend so that I can put my Python skills to use 🐍 . <br> I am also passionate about Computer Vision and Machine Learning 💻. 
 <br>
 
 ## 📚 Education 
@@ -27,7 +27,7 @@ Tech:
   <img src = "https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title = "Flask" alt = "C" width = "50" height = "50"/>&nbsp;
 </div>
 
-## Connect with me:
+## Connect with me 📱:
 <div id="badges">
   <a href="https://www.linkedin.com/in/vivek-dave-2a0362233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
