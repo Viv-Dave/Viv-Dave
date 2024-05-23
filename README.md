@@ -26,7 +26,7 @@ Tools:
   <img src= "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title = "Git" alt = "C" width = "60" height = "60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-line-wordmark.svg" title= "VSC" alt = "VSCode" width ="60" height="60"/>&nbsp;
 </div>
-Tech:
+Backend:
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title = "Flask" alt = "C" width = "70" height = "70"/>&nbsp;
 </div>
