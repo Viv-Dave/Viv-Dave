@@ -26,7 +26,8 @@ Tech:
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title = "Flask" alt = "C" width = "50" height = "50"/>&nbsp;
 </div>
-## Connect with me 
+
+## Connect with me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/vivek-dave-2a0362233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
