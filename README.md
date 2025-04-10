@@ -41,8 +41,7 @@ Backend:
   </a>
 </div>
 
-## My Github stats: 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=viv-dave&theme=dark" alt="GitHub Streak" /></a>
+
 
 <!--
 **Viv-Dave/Viv-Dave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
