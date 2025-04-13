@@ -1,21 +1,52 @@
 ## Hi there! I am Vivek Dave. 🤙
 <br>
-I am building my fullstack skills by learning React for frontend and Django for the backend so that I can put my Python skills to use 🐍 . <br> I am also passionate about Computer Vision and Machine Learning 💻. 
+I am an aspiring Machine Learning Enthusiast trying to wrap my head around various ML Algorithms. <br> I am particularly interested in Computer Vision and Natural Language Processing. 
 <br>
 
 ## 📚 Education 
-Pursuing B.E. in Electronics and Telecommunication Engineering from TCET Mumbai. 
+Pursuing B.E. in Electronics and Telecommunication Engineering from TCET. 
 
+* I am currently learning about classical ML techniques such as SVM, KMeans, DTs, MLPs.
+* I am open to collaboration on various project which embed ML techniques.
+
+<br>
+
+## 🛠️ Tech Stack:
+
+**Languages:** 
+<div>
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
+**ML/Data Science Libraries:** 
+<div>
+  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
+
+</div>
+
+**Tools & Platforms:** 
+<div>
+  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+<!--
 ## :hammer_and_wrench: Languages and Tools : 
 Languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
- 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title= "C" alt = "C" width="60" height= "60"/>&nbsp;
-
 </div>
 Databases:
 <div>
@@ -30,6 +61,7 @@ Backend:
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title = "Flask" alt = "C" width = "70" height = "70"/>&nbsp;
 </div>
+-->
 
 ## Connect with me 📱:
 <div id="badges">
